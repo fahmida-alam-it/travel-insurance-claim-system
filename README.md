@@ -67,12 +67,15 @@ These artifacts support requirement validation and bridge business needs with so
       📄 example_sequence.png
 
   📁 DataMapping/                              # Data mapping files
+  
     📄 example_mapping.xlsx
 
   📁 ExcelFiles/                              # Excel analysis and reports
+  
     📄 example_analysis.xlsx
 
   📁 VisioDiagrams/                            # Visio workflow diagrams
+  
     📄 example_diagram.vsdx
 
   📁 Code/                                     # Source code and scripts
