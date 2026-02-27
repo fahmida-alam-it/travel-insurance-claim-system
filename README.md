@@ -2,22 +2,21 @@ Travel Insurance Claim System — Business Analysis Case Study
 🧭 Project Overview
 
 The Travel Insurance Claim System project demonstrates end-to-end business analysis deliverables for a digital claims processing solution.
-The objective was to analyze business needs, define system requirements, and design supporting artifacts to improve the efficiency, transparency, and user experience of the claims lifecycle.
+The objective was to analyze business needs, define system requirements, and design supporting artifacts to improve efficiency, transparency, and the user experience of the claims lifecycle.
 
 🧩 Business Problem Statement
-
-Insurance claim processing is often slowed by manual workflows, fragmented communication, and limited visibility into claim status. These inefficiencies can lead to longer processing times, increased operational costs, and poor customer experience.
-
+Insurance claim processing is often slowed by manual workflows, fragmented communication, and limited visibility, leading to:
+Longer processing times
+Increased operational costs
+Poor customer experience
 Project Goal: Analyze current challenges and define a structured solution that improves efficiency, enhances transparency, and supports scalable digital processing.
 
-Business Objectives
-Streamline claim submission and processing
+Business Objectives:Streamline claim submission and processing
 Reduce manual intervention and processing time
 Improve communication between claimants and insurers
 Provide clear audit trails and reporting capabilities
 
 🧑‍💼 My Role
-
 Business Systems Analyst
 Key Responsibilities:
 Stakeholder needs analysis
@@ -32,22 +31,22 @@ The project includes detailed use cases and user stories to capture functional r
 Actor interactions with the system
 Functional scenarios for claim submission and processing
 User goals and acceptance criteria
-These artifacts support requirement validation and help bridge business needs with solution design.
+These artifacts support requirement validation and bridge business needs with solution design
 
 🗂️ Repository Folder Structure
 Travel-Insurance-Claim-System/
 │
-├── BRD/                  # Business Requirements Document & Scope
+├── BRD/                   # Business Requirements Document & Scope
 │   ├── Claim_Submission_BRD.docx
 │   ├── Stakeholder_Requirements.xlsx
 │   └── Business_Objectives.pdf
 │
-├── SRD/                  # System Requirements & Functional Specs
+├── SRD/                   # System Requirements & Functional Specs
 │   ├── Functional_Specs.docx
 │   ├── System_Requirements.xlsx
 │   └── User_Stories.xlsx
 │
-├── Diagrams/             # Visual Artifacts
+├── Diagrams/              # Visual Artifacts
 │   ├── Process_Flow_Diagram.vsdx
 │   ├── Sequence_Diagram.vsdx
 │   ├── ER_Diagram.vsdx
@@ -55,11 +54,10 @@ Travel-Insurance-Claim-System/
 │       ├── Login_Page.png
 │       └── Claim_Submission_Page.png
 │
-└── UAT/                  # User Acceptance Testing Scenarios
+└── UAT/                   # User Acceptance Testing Scenarios
     ├── UAT_Scenarios.xlsx
     └── Test_Results.docx
 
-    
 🧩 Key Deliverables
 Business Requirements Document (BRD)
 System Requirements Specification (SRD)
@@ -76,7 +74,7 @@ ER Diagram: Defines entities and relationships within the claims data model
 Flowcharts: Visualize business workflows and decision points
 Sequence Diagrams: Show system interactions and message flow between components
 Data Mapping: Maps data fields between source inputs and system outputs
-These artifacts support solution design, stakeholder communication, and requirement validation.
+These artifacts support solution design, stakeholder communication, and requirement validation
 
 🔍 Key Features of the Proposed Solution
 Online claim submission portal
@@ -94,10 +92,10 @@ Workflow and data modeling
 Business process analysis
 
 🌟 Key Achievements / Value Delivered
-Streamlined claims processing: Automated workflows reduced manual intervention and shortened claim processing time by 30%.
-Enhanced transparency: Implemented status tracking and notifications, improving communication with claimants and reducing follow-up inquiries by 40%.
-Improved requirement accuracy: Developed BRD, SRD, and detailed use cases that enabled 95% of system requirements to be correctly implemented on first iteration.
-Optimized data management: Designed ER diagrams and data mapping documents that ensured data consistency across multiple systems.
+Streamlined claims processing: Automated workflows reduced manual intervention and shortened claim processing time by 30%
+Enhanced transparency: Implemented status tracking and notifications, improving communication with claimants and reducing follow-up inquiries by 40%
+Improved requirement accuracy: Developed BRD, SRD, and detailed use cases that enabled 95% of system requirements to be correctly implemented on the first iteration
+Optimized data management: Designed ER diagrams and data mapping documents that ensured data consistency across multiple systems
 Accelerated stakeholder alignment: Visual artifacts (flowcharts, sequence diagrams, wireframes) facilitated faster approvals, reducing feedback cycles by 25%
 
 📈 Outcome
@@ -106,4 +104,3 @@ This project demonstrates the ability to translate business needs into structure
 👤 Author
 Fahmida Alam, CBAP
 Business Systems Analyst
-    
