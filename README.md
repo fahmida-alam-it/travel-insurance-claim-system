@@ -40,7 +40,8 @@ These artifacts support requirement validation and bridge business needs with so
 
   📄 README.md
 
-   📁 BRD/                      # Business Requirement Documents
+   📁 BRD/                       # Business Requirement Documents
+   
       📄 example_BRD.docx
 
   📁 SRD/                        # System Requirement Documents
