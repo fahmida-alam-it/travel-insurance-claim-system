@@ -38,25 +38,19 @@ These artifacts support requirement validation and bridge business needs with so
 
  📦 Project-Root/
 
- 
   📄 README.md
 
-  
-  📁 SRD/                        # System Requirement Documents
-
-  
-    📁 BRD/                      # Business Requirement Documents
+   📁 BRD/                      # Business Requirement Documents
       📄 example_BRD.docx
 
-      
+  📁 SRD/                        # System Requirement Documents
+
     📁 UseCases/                 # Use case documents
       📄 example_usecase.md
 
-      
     📁 UserStories/              # User story documents
       📄 example_userstory.md
 
-      
     📁 UAT/                      # User Acceptance Testing documents
       📄 example_UAT_testplan.docx
 
@@ -64,7 +58,6 @@ These artifacts support requirement validation and bridge business needs with so
     📁 ERDiagrams/               # Entity-Relationship diagrams
       📄 example_ERdiagram.png
 
-      
     📁 FlowCharts/               # Flow charts
       📄 example_flowchart.png
 
@@ -72,19 +65,15 @@ These artifacts support requirement validation and bridge business needs with so
     📁 SequenceDiagrams/         # Sequence diagrams
       📄 example_sequence.png
 
-      
   📁 DataMapping/                # Data mapping files
     📄 example_mapping.xlsx
 
-    
   📁 ExcelFiles/                 # Excel analysis and reports
     📄 example_analysis.xlsx
 
-    
   📁 VisioDiagrams/              # Visio workflow diagrams
     📄 example_diagram.vsdx
 
-    
   📁 Code/                       # Source code and scripts
   
     📁 Java/                     # Java source code
@@ -93,12 +82,8 @@ These artifacts support requirement validation and bridge business needs with so
     📁 tests/                    # Unit or functional test scripts
       📄 example_test.java
 
-      
   📁 Docs/                       # Additional documentation
-    📄 example_doc.md
-    
-    UserStories/              # User story documents
-      example_userstory.md
+    📄 example_doc.m
       
 🧩 Key Deliverables
 Business Requirements Document (BRD)
