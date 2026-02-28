@@ -132,6 +132,17 @@ Improved requirement accuracy: Developed BRD, SRD, and detailed use cases that e
 Optimized data management: Designed ER diagrams and data mapping documents that ensured data consistency across multiple systems
 Accelerated stakeholder alignment: Visual artifacts (flowcharts, sequence diagrams, wireframes) facilitated faster approvals, reducing feedback cycles by 25%
 
+How to Use This Repository
+
+This repository is organized to clearly separate business analysis artifacts, documentation, and supporting files. Use the guidelines below to navigate and maintain the project.
+📁 SRD (System Requirement Documents)
+Contains all requirement and analysis artifacts:
+BRD → High-level business requirements
+UseCases → Detailed functional flows
+UserStories → Agile requirements
+UAT → Test plans, test cases, and sign-off documents
+ERDiagrams / FlowCharts / SequenceDiagrams → Visual system and process models
+
 📈 Outcome
 This project demonstrates the ability to translate business needs into structured requirements and visual artifacts that support solution delivery and stakeholder alignment.
 
