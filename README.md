@@ -67,16 +67,22 @@ Project-Root/
     example_BRD.docx
     
   SRD/                      # System Requirement Documents
+  
     UseCases/               # Use case documents
       example_usecase.md
+      
     UserStories/            # User story documents
       example_userstory.md
+      
     UAT/                    # User Acceptance Testing documents
       example_UAT_testplan.docx
+      
     ERDiagrams/             # Entity-Relationship diagrams
       example_ERdiagram.png
+      
     FlowCharts/             # Flow charts
       example_flowchart.png
+      
     SequenceDiagrams/       # Sequence diagrams
       example_sequence.png
       
