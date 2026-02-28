@@ -16,7 +16,7 @@ The project aimed to improve the efficiency, accuracy, and user experience of th
 - Enhance reporting and analytics
 - Improve user experience for internal agents
 
-🧩 Scope of Work
+### 🧩 Scope of Work
 Gather and document business requirements (BRD)
 Create detailed functional specifications (Use Cases & User Stories)
 Produce process and system diagrams (ERD, Flowcharts, Sequence Diagrams)
