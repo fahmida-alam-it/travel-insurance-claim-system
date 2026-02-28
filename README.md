@@ -115,11 +115,21 @@ Notification and communication module
 
 ### 🛠️ Tools & Techniques
 Microsoft Excel → Analysis, data mapping, tracking, and documentation support
+
 Microsoft Visio → Process, ER, and sequence diagrams
+
 UML and process modeling techniques
+
 Requirements documentation best practices
+
 Workflow and data modeling
+
 Business process analysis
+
+SQL — Data validation and analysis
+
+Databricks (conceptual use) — Data processing and analytics environment
+
 
 ### 🌟 Key Achievements / Value Delivered
 Streamlined claims processing: Automated workflows reduced manual intervention and shortened claim processing time by 30%
