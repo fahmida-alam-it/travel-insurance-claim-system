@@ -1,12 +1,10 @@
 Travel Insurance Claim System — Business Analysis Case Study
 
 🧭 Project Overview
-
 The Travel Insurance Claim System project demonstrates end-to-end business analysis deliverables for a digital claims processing solution.
 The objective was to analyze business needs, define system requirements, and design supporting artifacts to improve efficiency, transparency, and the user experience of the claims lifecycle.
 
 Project Scenario
-
 Client: Mid-size Insurance Provider
 Project: Claims Processing System Enhancement
 The project aimed to improve the efficiency, accuracy, and user experience of the client’s claims processing platform. The initiative focuses on streamlining claim intake, automating validation rules, and enhancing reporting capabilities for business stakeholders.
@@ -147,7 +145,6 @@ Contains workflow diagrams, process maps, and architecture visuals.
 
 📁 DataMapping
 Includes mapping between business fields and system data elements:
-
 Source-to-target mappings
 Transformation rules
 Data dictionaries
