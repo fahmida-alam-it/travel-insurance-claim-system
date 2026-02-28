@@ -64,10 +64,12 @@ These artifacts support requirement validation and bridge business needs with so
 🗂️ Repository Folder Structure
 Project-Root/
   README.md
-  BRD/                         # Business Requirement Documents
+  BRD/                         
+  # Business Requirement Documents
     example_BRD.docx
     
-  SRD/                         # System Requirement Documents
+  SRD/                       
+  # System Requirement Documents
     UseCases/                  # Use case documents
       example_usecase.md
       
@@ -91,13 +93,16 @@ Project-Root/
     # Sequence diagrams
       example_sequence.png
       
-  DataMapping/                 # Data mapping files
+  DataMapping/                
+  # Data mapping files
     example_mapping.xlsx
     
-  ExcelFiles/                  # Excel analysis and reports
+  ExcelFiles/                 
+  # Excel analysis and reports
     example_analysis.xlsx
     
-  VisioDiagrams/               # Visio workflow diagrams
+  VisioDiagrams/              
+  # Visio workflow diagrams
     example_diagram.vsdx
     
   Code/                        # Source code and scripts
@@ -108,7 +113,8 @@ Project-Root/
     # Unit or functional test scripts
       example_test.java
       
-  Docs/                        # Additional documentation
+  Docs/                       
+  # Additional documentation
     example_doc.md
     
 📊 Analysis & Design Artifacts
