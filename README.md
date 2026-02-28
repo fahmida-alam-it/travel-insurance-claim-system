@@ -1,4 +1,5 @@
 Travel Insurance Claim System — Business Analysis Case Study
+
 🧭 Project Overview
 
 The Travel Insurance Claim System project demonstrates end-to-end business analysis deliverables for a digital claims processing solution.
@@ -70,18 +71,24 @@ Project-Root/
     UseCases/                  # Use case documents
       example_usecase.md
       
-    UserStories/               # User story documents
+    UserStories/            
+    # User story documents
       example_userstory.md
       
-    UAT/                       # User Acceptance Testing documents
+    UAT/                      
+    # User Acceptance Testing documents
       example_UAT_testplan.docx
       
-    ERDiagrams/                # Entity-Relationship diagrams
+    ERDiagrams/               
+    # Entity-Relationship diagrams
       example_ERdiagram.png
       
-    FlowCharts/                # Flow charts
+    FlowCharts/               
+    # Flow charts
       example_flowchart.png
-    SequenceDiagrams/          # Sequence diagrams
+      
+    SequenceDiagrams/         
+    # Sequence diagrams
       example_sequence.png
       
   DataMapping/                 # Data mapping files
@@ -97,7 +104,8 @@ Project-Root/
     Java/                      # Java source code
       example_code.java
       
-    tests/                     # Unit or functional test scripts
+    tests/                    
+    # Unit or functional test scripts
       example_test.java
       
   Docs/                        # Additional documentation
