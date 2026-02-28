@@ -118,17 +118,15 @@ Microsoft Excel → Analysis, data mapping, tracking, and documentation support
 
 Microsoft Visio → Process, ER, and sequence diagrams
 
-UML and process modeling techniques
+UML → process modeling techniques
 
 Requirements documentation best practices
 
 Workflow and data modeling
 
-Business process analysis
+SQL →  Data validation and analysis
 
-SQL — Data validation and analysis
-
-Databricks (conceptual use) — Data processing and analytics environment
+Databricks (conceptual use)  → Data processing and analytics environment
 
 
 ### 🌟 Key Achievements / Value Delivered
