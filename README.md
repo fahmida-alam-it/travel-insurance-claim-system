@@ -10,11 +10,11 @@ Client: Mid-size Insurance Provider
 Project: Claims Processing System Enhancement
 The project aimed to improve the efficiency, accuracy, and user experience of the client’s claims processing platform. The initiative focuses on streamlining claim intake, automating validation rules, and enhancing reporting capabilities for business stakeholders.
 
-##🎯 Business Goals
-Reduce claim processing time
-Improve data accuracy and validation
-Enhance reporting and analytics
-Improve user experience for internal agents
+### 🎯 Business Goals
+- Reduce claim processing time
+- Improve data accuracy and validation
+- Enhance reporting and analytics
+- Improve user experience for internal agents
 
 🧩 Scope of Work
 Gather and document business requirements (BRD)
