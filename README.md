@@ -62,10 +62,9 @@ User goals and acceptance criteria
 These artifacts support requirement validation and bridge business needs with solution design.
 
 🗂️ Repository Folder Structure
-Project-Root/
-  README.md
-  BRD/                      
-  # Business Requirement Documents
+Project-Root/  
+  README.md  
+  BRD/                     # Business Requirement Documents
     example_BRD.docx
     
   SRD/                      # System Requirement Documents
