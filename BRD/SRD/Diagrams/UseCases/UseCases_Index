@@ -1,0 +1,25 @@
+# Travel Insurance System – Use Cases
+
+This folder contains all Use Cases for the Travel Insurance Claim System.  
+
+---
+
+## List of Use Cases
+
+1. [Submit Travel Insurance Claim](Submit_Insurance_Claim_UseCase.md)  
+   - Describes the process for a customer to submit a travel insurance claim, including document uploads and confirmation.
+
+2. [Register / Create Account](Register_Create_Account.md)  
+   - Describes how a customer registers a new account on the portal.
+
+3. [View Policy Details](View_Policy_Details.md)  
+   - Describes how a customer can view policy coverage, limits, and effective dates.
+
+4. [Approve / Process Claims](Approve_Process_Claims.md)  
+   - Describes how insurance staff review, approve, or reject claims and notify customers.
+
+---
+
+## Notes
+- Each Use Case includes a detailed flow, alternative flows, postconditions, and an ASCII flow diagram.  
+- For updates, edit the respective Markdown file for that Use Case.
