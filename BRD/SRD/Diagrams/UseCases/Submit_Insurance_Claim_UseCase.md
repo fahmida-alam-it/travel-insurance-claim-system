@@ -47,3 +47,33 @@
 - The system should validate file formats and sizes for uploads.  
 - The claim reference number should be unique and trackable.
 
+## Use Case Flow Diagram (ASCII)
+
+Customer
+   |
+   v
+[Log in to Portal]
+   |
+   v
+[Navigate to Submit Claim]
+   |
+   v
+[Select Claim Type]
+   |
+   v
+[Fill Claim Form]
+   |
+   v
+[Upload Documents] ---> (Missing Docs?) ---> [Prompt to Upload] ---> [Fill Claim Form]
+   |
+   v
+[Review & Submit]
+   |
+   v
+[System Generates Claim Reference]
+   |
+   v
+[Email Confirmation to Customer]
+
+
+
