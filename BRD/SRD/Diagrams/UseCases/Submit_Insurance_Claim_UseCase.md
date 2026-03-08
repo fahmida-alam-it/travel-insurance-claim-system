@@ -49,19 +49,54 @@
 
 ---
 
-## Use Case Flow Diagram (Enhanced Compact ASCII)
+## Use Case Flow Diagram (Branching ASCII)
 
-**Customer**
-   |
-   v
-[**Log in**] → [**Navigate to Submit Claim**] → [**Select Claim Type**] → [**Fill Claim Form**]
-   |
-   v
-[**Upload Documents**] ──> (**Missing Docs?**) ──> [**Prompt to Upload**] ──> [**Fill Claim Form**]
-   |
-   v
-[**Review & Submit**] → [**System Generates Claim Reference**] → [**Email Confirmation**]
-
+                 +------------------+
+                 |      Customer     |
+                 +------------------+
+                          |
+                          v
+                 +------------------+
+                 |      Log in       |
+                 +------------------+
+                          |
+                          v
+                 +---------------------------+
+                 | Navigate to Submit Claim  |
+                 +---------------------------+
+                          |
+                          v
+                 +------------------+
+                 | Select Claim Type |
+                 +------------------+
+                          |
+                          v
+                 +------------------+
+                 | Fill Claim Form   |
+                 +------------------+
+                          |
+                          v
+                 +------------------+
+                 | Upload Documents |
+                 +------------------+
+                     /       \
+          Missing? /           \ OK
+                 /               \
+        +------------------+     v
+        | Prompt to Upload |   +------------------+
+        +------------------+   | Review & Submit  |
+                 |             +------------------+
+                 +--------> Fill Claim Form
+                          |
+                          v
+                 +------------------------------+
+                 | System Generates Claim Ref # |
+                 +------------------------------+
+                          |
+                          v
+                 +------------------+
+                 | Email Confirmation |
+                 +------------------+
 
 
 
