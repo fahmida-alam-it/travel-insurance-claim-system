@@ -36,7 +36,7 @@
 
 ---
 
-## Post conditions
+## Postconditions
 - Claim is recorded in the system.  
 - Customer receives confirmation and claim reference.  
 - Claim is ready for processing by the insurance team.  
@@ -45,7 +45,9 @@
 
 ## Notes
 - The system should validate file formats and sizes for uploads.  
-- The claim reference number should be unique and trackable.
+- The claim reference number should be unique and trackable.  
+
+---
 
 ## Use Case Flow Diagram (ASCII)
 
@@ -74,6 +76,13 @@ Customer
    |
    v
 [Email Confirmation to Customer]
+
+
+
+
+
+
+
 
 
 
