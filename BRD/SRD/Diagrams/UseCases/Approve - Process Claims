@@ -1,0 +1,58 @@
+# Use Case Name: Approve / Process Claims
+
+**Actor:** Insurance Staff  
+
+**Precondition:** Claim is submitted and pending review.  
+
+**Trigger:** Staff wants to process the claim.  
+
+---
+
+## Main Flow
+1. Staff logs in to the staff portal.  
+2. Staff navigates to **“Pending Claims”**.  
+3. Staff selects a claim to review.  
+4. Staff verifies documents and claim details.  
+5. Staff approves or rejects the claim.  
+6. System updates the claim status and notifies the customer.  
+
+---
+
+## Alternative Flows
+**A1: Missing documents** – Staff requests additional documents from customer.  
+**A2: Policy invalid** – Staff rejects claim and notifies customer.  
+
+---
+
+## Postconditions
+- Claim is approved, rejected, or pending additional info.  
+- Customer receives status update.  
+
+---
+
+## Use Case Flow Diagram (ASCII)
+
+Insurance Staff
+       |
+       v
+[Log in]
+       |
+       v
+[Navigate to Pending Claims]
+       |
+       v
+[Select Claim]
+       |
+       v
+[Verify Documents & Details]
+       |
+       v
++-------------------------+
+| Approve?   | Reject?    |
++-------------------------+
+    |            |
+    v            v
+[Update Status]  [Update Status]
+    |            |
+    v            v
+[Notify Customer]  [Notify Customer]
