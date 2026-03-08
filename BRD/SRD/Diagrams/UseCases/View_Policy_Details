@@ -1,0 +1,47 @@
+# Use Case Name: View Policy Details
+
+**Actor:** Customer  
+
+**Precondition:** Customer has a valid account and active insurance policy.  
+
+**Trigger:** Customer wants to view coverage details.  
+
+---
+
+## Main Flow
+1. Customer logs in to the portal.  
+2. Customer navigates to **“My Policies”**.  
+3. Customer selects a policy to view details.  
+4. System displays policy information:  
+   - Policy number  
+   - Coverage type  
+   - Effective and expiry dates  
+   - Benefits and limits  
+
+---
+
+## Alternative Flows
+**A1: No active policy** – System notifies the customer there is no active policy.  
+
+---
+
+## Postconditions
+- Customer can view accurate policy information.  
+
+---
+
+## Use Case Flow Diagram (ASCII)
+
+Customer
+   |
+   v
+[Log in]
+   |
+   v
+[Navigate to My Policies]
+   |
+   v
+[Select Policy]
+   |
+   v
+[System Displays Policy Details] ---> (No Active Policy?) ---> [Notify Customer]
