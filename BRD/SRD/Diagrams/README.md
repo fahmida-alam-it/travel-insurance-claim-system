@@ -171,9 +171,8 @@ BRD/SRD/Diagrams/UseCases/
 
 ## System Diagrams & Use Case Map
 The following diagram illustrates the relationships between ER diagrams, Flowcharts, UML diagrams, Wireframes, and Use Cases in the system:
+
 ![System Diagrams & Use Case Map](Diagrams/System_Diagrams_UseCase_Map.png)
-
-
 
 ---
 
