@@ -59,44 +59,46 @@ The system supports several main use cases.
 
 ## Repository Structure – Travel Insurance Claim System
 
+## Repository Structure – Travel Insurance Claim System
+
 ```
 travel-insurance-claim-system
 │
-├── README.md                   # Main project overview
-├── LICENSE.md                  # Optional license
+├── README.md
+├── LICENSE.md
 │
-├── BRD                         # Business Requirements Documents
+├── BRD
 │   ├── Business_Requirements.md
 │   │
-│   └── SRD                     # System Requirements Documents
+│   └── SRD
 │       ├── System_Requirements.md
 │       │
-│       └── Diagrams             # System & Process Diagrams
-│           ├── README.md        # Diagrams folder overview
+│       └── Diagrams
+│           ├── README.md
 │           ├── System_Overview.md
 │           ├── Claim_Process_Overview.md
 │           ├── System_Architecture.md
-│           └── Claim_Data_Model.md
+│           ├── Claim_Data_Model.md
+│           ├── Master_Index_Diagrams_2026-02-25.docx
+│           ├── Process_Diagrams
+│           │
+│           ├── ER Diagrams/
+│           ├── Flowcharts/
+│           ├── UML Diagrams/
+│           └── Wireframes_Mockups/
 │
-│           └── UseCases          # Use Case documentation
-│               ├── README.md      # Index of all Use Cases
+│           └── UseCases
+│               ├── README.md
 │               ├── Submit_Insurance_Claim_UseCase.md
 │               ├── Register_Create_Account.md
 │               ├── View_Policy_Details.md
 │               ├── Upload_Claim_Documents.md
 │               └── Approve_Process_Claims.md
 │
-├── Screenshots                 # Optional screenshots of UI or flow
-│   └── example_screenshot.png
-│
-├── Tests                       # Optional test plans or test cases
-│   └── ClaimSubmissionTest.md
-│
-└── docs                        # Optional additional documentation
-    └── README.md
+├── Screenshots/
+├── Tests/
+└── docs/
 ```
-
-
 
 | Use Case | Description |
 |--------|-------------|
