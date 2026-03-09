@@ -64,7 +64,7 @@ travel-insurance-claim-system
 │   └── SRD
 │       ├── System_Requirements.md
 │       │
-│       └── Diagrams
+│       └── Diagrams / Doc
 │           ├── README.md
 │           ├── System_Overview.md
 │           ├── Claim_Process_Overview.md
@@ -72,6 +72,7 @@ travel-insurance-claim-system
 │           ├── Claim_Data_Model.md
 │           ├── Master_Index_Diagrams_2026-02-25.docx
 │           ├── Process_Diagrams
+|           ├── User_Stories.md
 │           │
 │           ├── ER Diagrams/
 │           ├── Flowcharts/
@@ -90,6 +91,7 @@ travel-insurance-claim-system
 ├── Tests/
 └── docs/
 ```
+
 
 ## System Diagrams & Use Case Map
 ```
