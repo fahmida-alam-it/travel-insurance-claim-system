@@ -57,6 +57,8 @@ The system supports several main use cases.
 
 ## Repository Structure
 
+## Repository Structure
+
 ```
 travel-insurance-claim-system
 │
@@ -68,12 +70,17 @@ travel-insurance-claim-system
 │       ├── System_Requirements.md
 │       │
 │       └── Diagrams
+│           ├── README.md
 │           ├── System_Overview.md
 │           ├── Claim_Process_Overview.md
-│           │
+│           ├── System_Architecture.md
+│           └── Claim_Data_Model.md
+│
 │           └── UseCases
+│               ├── README.md
 │               ├── Submit_Insurance_Claim_UseCase.md
 │               ├── Register_Create_Account.md
+│               ├── View_Policy_Details.md
 │               ├── Upload_Claim_Documents.md
 │               └── Approve_Process_Claims.md
 ```
@@ -82,39 +89,16 @@ travel-insurance-claim-system
 
 | Use Case | Description |
 |--------|-------------|
-| Register / Create Account | Customer creates an account |
-| Submit Insurance Claim | Customer submits a travel insurance claim |
-| Upload Claim Documents | Customer uploads supporting documents |
-| View Policy Details | Customer views their insurance policy |
-| Approve / Process Claims | Insurance agent reviews and approves claims |
+| Register / Create Account |
+| Submit Insurance Claim | 
+| Customer submits a travel insurance claim |
+| Upload Claim Documents |
+| View Policy Details | 
+| Approve / Process Claims | 
 
 Use cases are located in:
 
 BRD/SRD/Diagrams/UseCases/
-
----
-
-## Repository Structure
-
-travel-insurance-claim-system
-│
-├── README.md
-│
-├── BRD
-│ ├── Business_Requirements.md
-│ │
-│ └── SRD
-│ ├── System_Requirements.md
-│ │
-│ └── Diagrams
-│ ├── System_Overview.md
-│ ├── Claim_Process_Overview.md
-│ │
-│ └── UseCases
-│ ├── Submit_Insurance_Claim_UseCase.md
-│ ├── Register_Create_Account.md
-│ ├── Upload_Claim_Documents.md
-│ └── Approve_Process_Claims.md
 
 
 ---
