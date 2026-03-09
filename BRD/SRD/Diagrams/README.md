@@ -51,7 +51,18 @@ BRD/SRD/Diagrams/Claim_Process_Overview.md
 
 ---
 
-
+travel-insurance-claim-system/
+├── Diagrams/
+│   ├── ER/
+│   │   └── Claim_ER_Diagram.drawio      # Entity-Relationship diagram placeholder
+│   ├── Flow/
+│   │   └── Claim_Flow.drawio            # Process flow diagram placeholder
+│   ├── UML/
+│   │   ├── Use_Case.drawio              # UML Use Case placeholder
+│   │   ├── Class_Diagram.drawio         # UML Class Diagram placeholder
+│   │   └── Sequence_Diagram.drawio      # UML Sequence Diagram placeholder
+│   └── Wireframes/
+│       └── Claim_Form_Wireframe.drawio  # Wireframe placeholder
 ```
 travel-insurance-claim-system
 │
@@ -74,11 +85,16 @@ travel-insurance-claim-system
 │           ├── Process_Diagrams
 |           ├── User_Stories.md
 │           │
-│           ├── ER Diagrams/
+|           ├── ER ER Diagrams/ 
+│           └── Claim_ER_Diagram.drawio      # Entity-Relationship diagram placeholder
 │           ├── Flowcharts/
+│           └── Claim_Flow.drawio            # Process flow diagram placeholder
 │           ├── UML Diagrams/
+│           ├── Use_Case.drawio              # UML Use Case placeholder
+│           ├── Class_Diagram.drawio         # UML Class Diagram placeholder
+│           └── Sequence_Diagram.drawio      # UML Sequence Diagram placeholder
 │           └── Wireframes_Mockups/
-│
+│           └── Claim_Form_Wireframe.drawio  # Wireframe placeholder
 │           └── UseCases
 │               ├── README.md
 │               ├── Submit_Insurance_Claim_UseCase.md
