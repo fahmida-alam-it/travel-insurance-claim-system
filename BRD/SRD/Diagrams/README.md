@@ -51,6 +51,7 @@ BRD/SRD/Diagrams/Claim_Process_Overview.md
 
 ---
 
+```
 travel-insurance-claim-system/
 ├── Diagrams/
 │   ├── ER/
@@ -64,7 +65,10 @@ travel-insurance-claim-system/
 │   └── Wireframes/
 │       └── Claim_Form_Wireframe.drawio  # Wireframe placeholder
 ```
-travel-insurance-claim-system
+
+
+## travel-insurance-claim-system
+```
 │
 ├── README.md
 ├── LICENSE.md
