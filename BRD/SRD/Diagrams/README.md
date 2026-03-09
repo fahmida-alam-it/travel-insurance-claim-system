@@ -100,6 +100,38 @@ travel-insurance-claim-system
 └── docs/
 ```
 
+## System Diagrams & Use Case Map
+```
+│
+├── ER Diagrams
+│   ├── Customer_ER_Diagram.md
+│   ├── Claims_ER_Diagram.md
+│   └── Policy_ER_Diagram.md
+│
+├── Flowcharts
+│   ├── Claim_Submission_Flowchart.md
+│   ├── Claim_Approval_Flowchart.md
+│   └── Payment_Process_Flowchart.md
+│
+├── UML Diagrams
+│   ├── UseCase_UML.md  ──► Linked to UseCases/UseCase_*.md
+│   ├── Sequence_UML.md  ──► Shows step-by-step processes in Flowcharts
+│   └── Class_UML.md     ──► Based on ER Diagrams
+│
+├── Wireframes_Mockups
+│   ├── Dashboard_Wireframe.md  ──► Reflects key system functions
+│   ├── Claim_Form_Wireframe.md ──► Linked to Claim Submission Flowchart
+│   └── Mobile_View_Mockup.md   ──► For mobile interface of system
+│
+├── System_Overview.md       ──► Provides high-level summary of all components
+├── Claim_Process_Overview.md ──► Connects Flowcharts + Use Cases
+├── System_Architecture.md   ──► Shows technical architecture integrating all diagrams
+├── Claim_Data_Model.md      ──► Detailed ER + Class Diagram mapping
+│
+├── Master_Index_Diagrams_2026-02-25.docx
+└── Process_Diagrams/
+```
+
 | Use Case | Description |
 |--------|-------------|
 | Register / Create Account |
