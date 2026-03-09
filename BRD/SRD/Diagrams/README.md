@@ -132,6 +132,30 @@ travel-insurance-claim-system
 └── Process_Diagrams/
 ```
 
+How to read this map:
+
+ER Diagrams → UML Class Diagrams → Data Models
+
+Shows entities, relationships, and how the system classes are structured.
+
+Flowcharts → UML Sequence Diagrams → Wireframes
+
+Shows process flow, sequence of actions, and the corresponding UI design.
+
+Use Cases → UML Use Case Diagrams → Flowcharts & Wireframes
+
+Connects user actions to system functionality.
+
+Top-level Markdown files summarize the entire system and connect the pieces.
+
+ER Diagrams → UML Class Diagrams → Data Models
+Shows entities, relationships, and how the system classes are structured.
+Flowcharts → UML Sequence Diagrams → Wireframes
+Shows process flow, sequence of actions, and the corresponding UI design.
+Use Cases → UML Use Case Diagrams → Flowcharts & Wireframes
+Connects user actions to system functionality.
+Top-level Markdown files summarize the entire system and connect the pieces.
+
 | Use Case | Description |
 |--------|-------------|
 | Register / Create Account |
