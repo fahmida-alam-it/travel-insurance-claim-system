@@ -55,6 +55,31 @@ BRD/SRD/Diagrams/Claim_Process_Overview.md
 
 The system supports several main use cases.
 
+## Repository Structure
+
+```
+travel-insurance-claim-system
+│
+├── README.md
+├── BRD
+│   ├── Business_Requirements.md
+│   │
+│   └── SRD
+│       ├── System_Requirements.md
+│       │
+│       └── Diagrams
+│           ├── System_Overview.md
+│           ├── Claim_Process_Overview.md
+│           │
+│           └── UseCases
+│               ├── Submit_Insurance_Claim_UseCase.md
+│               ├── Register_Create_Account.md
+│               ├── Upload_Claim_Documents.md
+│               └── Approve_Process_Claims.md
+```
+
+
+
 | Use Case | Description |
 |--------|-------------|
 | Register / Create Account | Customer creates an account |
