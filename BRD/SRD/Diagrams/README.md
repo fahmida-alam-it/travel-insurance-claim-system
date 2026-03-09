@@ -51,15 +51,6 @@ BRD/SRD/Diagrams/Claim_Process_Overview.md
 
 ---
 
-## Use Cases
-
-The system supports several main use cases.
-
-## Repository Structure
-
-## Repository Structure – Travel Insurance Claim System
-
-## Repository Structure – Travel Insurance Claim System
 
 ```
 travel-insurance-claim-system
@@ -156,14 +147,16 @@ Use Cases → UML Use Case Diagrams → Flowcharts & Wireframes
 Connects user actions to system functionality.
 Top-level Markdown files summarize the entire system and connect the pieces.
 
-| Use Case | Description |
-|--------|-------------|
-| Register / Create Account |
-| Submit Insurance Claim | 
-| Customer submits a travel insurance claim |
-| Upload Claim Documents |
-| View Policy Details | 
-| Approve / Process Claims | 
+
+## Use Cases
+
+| Use Case                  | Description                               |
+| ------------------------- | ----------------------------------------- |
+| Register / Create Account | User account creation                     |
+| Submit Insurance Claim    | Customer submits a travel insurance claim |
+| Upload Claim Documents    | Upload receipts, medical reports, etc.    |
+| View Policy Details       | Check policy information and status       |
+| Approve / Process Claims  | Agent reviews and approves/rejects claims |
 
 Use cases are located in:
 
