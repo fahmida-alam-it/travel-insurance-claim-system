@@ -200,7 +200,11 @@ The following diagram illustrates the relationships between ER diagrams, Flowcha
 
 ---
 
-## Author
-
 Project developed as part of a **System Analysis and Design documentation project**.
+
+### 👤 Author
+Fahmida Alam, CBAP
+Business Systems Analyst
+
+
 
