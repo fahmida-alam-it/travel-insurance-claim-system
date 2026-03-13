@@ -57,73 +57,13 @@ UseCases/
 │   └── README.md
 └── UseCases_Index.md
 
+Explanation
 
+Each folder (like Register_Create_Account) contains a README.md or detailed Markdown describing the use case flow.
 
-## Notes
+Some use cases (like Submit_Insurance_Claim_UseCase.md) are standalone Markdown files. You could optionally move them into a folder if you want consistency.
 
-- Each use case should have a **dedicated folder** with a Markdown file describing:
-  - Actor(s)
-  - Preconditions
-  - Main Flow
-  - Alternate Flows
-  - Postconditions
-- Use this index as a **navigation guide** for developers, business analysts, and QA testers.
-- Keep the index updated whenever a new use case is created or an existing one is modified.
-
-
-
-
-
-# Travel Insurance System – Use Cases
-
-This folder contains all Use Cases for the Travel Insurance Claim System.  
-
----
-
-## List of Use Cases
-
-1. [Submit Travel Insurance Claim](Submit_Insurance_Claim_UseCase.md)  
-   - Describes the process for a customer to submit a travel insurance claim, including document uploads and confirmation.
-
-2. [Register / Create Account](Register_Create_Account.md)  
-   - Describes how a customer registers a new account on the portal.
-
-3. [View Policy Details](View_Policy_Details.md)  
-   - Describes how a customer can view policy coverage, limits, and effective dates.
-
-4. [Approve / Process Claims](Approve_Process_Claims.md)  
-   - Describes how insurance staff review, approve, or reject claims and notify customers.
-
----
-
-## Notes
-- Each Use Case includes a detailed flow, alternative flows, postconditions, and an ASCII flow diagram.  
-- For updates, edit the respective Markdown file for that Use Case.
-
-## Use Cases Folder Structure
-
-travel-insurance-claim-system
-│
-└── BRD
-    │
-    └── SRD
-        │
-        └── Diagrams
-            │
-            └── UseCases
-                │
-                ├── README.md
-                │
-                ├── Submit_Insurance_Claim_UseCase.md
-                │
-                ├── Register_Create_Account.md
-                │
-                ├── View_Policy_Details.md
-                │
-                └── Approve_Process_Claims.md
-
-Description
-File	Description
+UseCases_Index.md is the master index linking all use cases with a short description.
 Submit_Insurance_Claim_UseCase.md	Customer submits a travel insurance claim
 Register_Create_Account.md	Customer creates a new portal account
 View_Policy_Details.md	Customer views policy coverage and details
