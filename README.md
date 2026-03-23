@@ -3,6 +3,9 @@
 ## 🧭 Project Overview
 The Travel Insurance Claim Management System allows customers to submit travel insurance claims online and track the claim status.
 
+## 📊 Claims Process Flow
+![Claims Flow](Diagrams/claim_flow.png)
+
 ## 🎯 Business Objectives / Goals 
 - Reduce claim processing time
 - Improve data accuracy and validation
