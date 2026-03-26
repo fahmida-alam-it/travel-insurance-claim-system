@@ -1,0 +1,23 @@
+## Claim Form Data Fields
+
+Claim
+│
+├── Claim_ID
+├── Policy_Number
+├── Customer_Name
+├── Incident_Date
+├── Claim_Type
+├── Description
+├── Claim_Amount
+├── Status
+└── Submission_Date
+
+Possible Status values:
+
+Submitted
+
+Under Review
+
+Approved
+
+Rejected

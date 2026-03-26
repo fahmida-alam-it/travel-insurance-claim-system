@@ -1,0 +1,27 @@
+## Travel Insurance Claim Process
+
+Customer
+   |
+   v
+[Submit Claim]
+   |
+   v
+[System Validates Claim]
+   |
+   v
+[Claim Sent for Review]
+   |
+   v
+Insurance Staff
+   |
+   +----> Approve Claim
+   |         |
+   |         v
+   |   [Customer Receives Payment]
+   |
+   +----> Reject Claim
+             |
+             v
+      [Customer Notified]
+
+This shows the full claim lifecycle

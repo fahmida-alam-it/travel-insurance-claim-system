@@ -1,0 +1,71 @@
+# Use Cases Index – Travel Insurance Claim System
+
+This file serves as the **master index of all use cases** for the Travel Insurance Claim System. It includes existing use cases and additional ones that capture all major workflows for customers, agents, and administrators.
+
+---
+
+## Existing Use Cases
+
+| Use Case | File | Description |
+|----------|------|-------------|
+| Register / Create Account | `Register_Create_Account/README.md` | Customer registers for a new account and sets up profile information. |
+| Submit Insurance Claim | `Submit_Insurance_Claim_UseCase.md` | Customer submits a travel insurance claim with supporting documents. |
+| View Policy Details | `View_Policy_Details/README.md` | Customer views details of their policies, coverage, and limits. |
+| Approve / Process Claims | `Approve - Process Claims/README.md` | Agent reviews submitted claims and approves or rejects them. |
+| UAT (User Acceptance Testing) | `UAT/README.md` | Test cases and scenarios for validating the system against requirements. |
+
+---
+
+## New / Additional Use Cases
+
+| Use Case | File | Description |
+|----------|------|-------------|
+| Update Account / Policy Info | `Update_Account_Policy_Info/README.md` | Customer updates personal information or modifies travel policy details. |
+| Request Additional Documents | `Request_Additional_Documents/README.md` | Agent requests extra documents or clarifications from the customer for claims processing. |
+| Notifications | `Notifications/README.md` | System sends notifications (email/SMS) for claim submission, approval, rejection, or document requests. |
+| Payment Processing / Reimbursement | `Payment_Processing/README.md` | Tracks and processes payments for approved claims, including refunds or reimbursements. |
+| Policy Purchase / Renewal | `Policy_Purchase_Renewal/README.md` | Customer purchases a new travel insurance policy or renews an existing one. |
+| Reporting & Analytics | `Reporting_Analytics/README.md` | Admin or management generates reports or views dashboards for claims, payments, and system activity. |
+| Fraud Detection / Flagging | `Fraud_Detection/README.md` | System identifies and flags suspicious claims for further review. |
+
+---
+## User case Folder Strcucture
+
+UseCases/
+├── Register_Create_Account/
+│   └── README.md
+├── Submit_Insurance_Claim_UseCase.md
+├── View_Policy_Details/
+│   └── README.md
+├── Approve - Process Claims/
+│   └── README.md
+├── UAT/
+│   └── README.md
+├── Update_Account_Policy_Info/
+│   └── README.md
+├── Request_Additional_Documents/
+│   └── README.md
+├── Notifications/
+│   └── README.md
+├── Payment_Processing/
+│   └── README.md
+├── Policy_Purchase_Renewal/
+│   └── README.md
+├── Reporting_Analytics/
+│   └── README.md
+├── Fraud_Detection/
+│   └── README.md
+└── UseCases_Index.md
+
+Explanation
+
+Each folder (like Register_Create_Account) contains a README.md or detailed Markdown describing the use case flow.
+
+Some use cases (like Submit_Insurance_Claim_UseCase.md) are standalone Markdown files. You could optionally move them into a folder if you want consistency.
+
+UseCases_Index.md is the master index linking all use cases with a short description.
+Submit_Insurance_Claim_UseCase.md	Customer submits a travel insurance claim
+Register_Create_Account.md	Customer creates a new portal account
+View_Policy_Details.md	Customer views policy coverage and details
+Approve_Process_Claims.md	Insurance staff review and approve/reject claims
+README.md	Index file linking all Use Cases
