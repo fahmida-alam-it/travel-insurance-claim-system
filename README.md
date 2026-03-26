@@ -17,6 +17,7 @@ The Travel Insurance Claims process follows these main steps:
 7. **Approved / Rejected** – The claim is either approved or rejected.
 8. **End** – The process is completed.
 
+ ```
 [Start]
 ↓
 [Login]
@@ -32,6 +33,8 @@ The Travel Insurance Claims process follows these main steps:
 [Approved / Rejected]
 ↓
 [End]
+
+ ```
 
 ![Claims Flow](BRD/SRD/Diagrams/claim_flow.png)
 
