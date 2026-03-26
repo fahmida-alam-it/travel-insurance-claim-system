@@ -77,9 +77,9 @@ This repository is organized to clearly separate Business Requirements (BRD), Sy
 Project-Root/
   README.md
 
-  BRD/ # Business Requirement Documents
+  
   ```
-
+BRD/ # Business Requirement Documents
 ├─ BRD_TravelInsuranceClaims.docx # Main BRD document
 ├─ Travel_Insurance_Claim_System_BRD.docx
 ├─ Travel_Insurance_Claim_System_BRD.md
