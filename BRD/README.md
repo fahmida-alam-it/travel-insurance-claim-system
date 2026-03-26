@@ -1,3 +1,5 @@
+
+
 # Business Requirements Documents (BRD) – Travel Insurance Claim System
 
 This folder contains all **Business Requirement Documents (BRD)** for the Travel Insurance Claim System. These documents define the business needs, objectives, and high-level requirements for the system from a stakeholder perspective.
