@@ -78,6 +78,8 @@ Project-Root/
   README.md
 
   BRD/ # Business Requirement Documents
+  ```
+
 ├─ BRD_TravelInsuranceClaims.docx # Main BRD document
 ├─ Travel_Insurance_Claim_System_BRD.docx
 ├─ Travel_Insurance_Claim_System_BRD.md
@@ -110,7 +112,7 @@ Code/ # Source code (if applicable)
 DataMapping/ # Data mapping files
 ExcelFiles/ # Excel sheets used in analysis or planning
 VisioDiagrams/ # Microsoft Visio diagrams
-
+```
 
 ---
 
