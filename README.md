@@ -4,7 +4,36 @@
 The Travel Insurance Claim Management System allows customers to submit travel insurance claims online and track the claim status.
 
 ## 📊 Claims Process Flow
-![Claims Flow](Diagrams/claim_flow.png)
+## 📊 Claims Process Flow
+
+The Travel Insurance Claims process follows these main steps:
+
+1. **Start** – The user begins the claims process.
+2. **Login** – The user logs into the system.
+3. **Submit Claim** – The user submits a new claim.
+4. **Upload Documents** – Any required documents are uploaded.
+5. **System Validation** – The system checks the claim and documents.
+6. **Claim Review** – The claim is reviewed by the claims team.
+7. **Approved / Rejected** – The claim is either approved or rejected.
+8. **End** – The process is completed.
+
+[Start]
+↓
+[Login]
+↓
+[Submit Claim]
+↓
+[Upload Documents]
+↓
+[System Validation]
+↓
+[Claim Review]
+↓
+[Approved / Rejected]
+↓
+[End]
+
+![Claims Flow](BRD/SRD/Diagrams/claim_flow.png)
 
 ## 🎯 Business Objectives / Goals 
 - Reduce claim processing time
