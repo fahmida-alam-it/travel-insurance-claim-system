@@ -71,8 +71,49 @@ User goals and acceptance criteria
 These artifacts support requirement validation and bridge business needs with solution design.
 
 ### 🗂️ Repository Folder Structure
+
+This repository is organized to clearly separate Business Requirements (BRD), System Requirements (SRD), diagrams, code, and supporting documentation.
+
 Project-Root/
   README.md
+
+  BRD/ # Business Requirement Documents
+├─ BRD_TravelInsuranceClaims.docx # Main BRD document
+├─ Travel_Insurance_Claim_System_BRD.docx
+├─ Travel_Insurance_Claim_System_BRD.md
+├─ README.md # BRD-specific notes
+
+SRD/ # System Requirement Documents
+├─ SRD_TravelInsuranceClaims.docx
+├─ Travel_Insurance_Claim_System_SRD.docx
+├─ README.md # SRD-specific notes
+├─ Diagrams/ # All system diagrams
+│ ├─ ER Diagrams/ # Entity-Relationship diagrams
+│ ├─ Flowcharts/ # Process flow diagrams
+│ ├─ Process Diagrams/ # End-to-end process diagrams
+│ ├─ UML Diagrams/ # Class, sequence, and other UML diagrams
+│ ├─ UseCases/ # Use case documents
+│ │ └─ UAT/ # User Acceptance Testing documents
+│ ├─ Wireframes_Mockups/ # Wireframe and UI mockup designs
+├─ ERDiagrams/ # Additional ER diagrams
+├─ FlowCharts/ # Additional flowcharts
+├─ SequenceDiagrams/ # Sequence diagrams
+├─ UAT/ # User acceptance testing documentation
+├─ UseCases/ # Detailed use case documents
+├─ UserStories/ # User story documents
+└─ Wireframes/ # Wireframe designs
+
+Docs/ # Supporting documents
+├─ Master_Index_Diagrams_2026-02-25.rtf # Index of diagrams
+
+Code/ # Source code (if applicable)
+DataMapping/ # Data mapping files
+ExcelFiles/ # Excel sheets used in analysis or planning
+VisioDiagrams/ # Microsoft Visio diagrams
+
+
+---
+
   
   BRD/                     # Business Requirement Documents
     example_BRD.docx
@@ -118,6 +159,10 @@ Project-Root/
       
   Docs/                     # Additional documentation
     example_doc.md
+
+
+   
+
 
     
 ### 📊 Analysis & Design Artifacts
