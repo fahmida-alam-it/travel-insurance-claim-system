@@ -35,7 +35,7 @@ The Travel Insurance Claims process follows these main steps:
 
  ```
 
-![Claims Flow](BRD/SRD/Diagrams/claim_flow.png)
+![Claims Flow](SRD/Diagrams/Systems%20Diagram%20and%20Use%20case%20map%20%20Image.png)
 
 ## 🎯 Business Objectives / Goals 
 - Reduce claim processing time
