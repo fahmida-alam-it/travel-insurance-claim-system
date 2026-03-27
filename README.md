@@ -3,6 +3,8 @@
 ## 🧭 Project Overview
 The Travel Insurance Claim Management System allows customers to submit travel insurance claims online and track the claim status.
 
+---
+
 ## 📊 Claims Process Flow
 
 The Travel Insurance Claims process follows these main steps:
@@ -37,6 +39,8 @@ The Travel Insurance Claims process follows these main steps:
 
 ![Claims Flow](SRD/Diagrams/Systems%20Diagram%20and%20Use%20case%20map%20%20Image.png)
 
+---
+
 ## 🎯 Business Objectives / Goals 
 - Reduce claim processing time
 - Improve data accuracy and validation
@@ -48,6 +52,7 @@ The Travel Insurance Claims process follows these main steps:
 
 The objective was to analyze business needs, define system requirements, and design supporting artifacts to improve efficiency, transparency, and the user experience of the claims lifecycle
 
+---
 ## Actors
 - Customer
 - Claims Agent
@@ -146,57 +151,6 @@ VisioDiagrams/ # Microsoft Visio diagrams
 ```
 
 ---
-
-  
-  BRD/                     # Business Requirement Documents
-    example_BRD.docx
-    
-  SRD/                      # System Requirement Documents
-  
-    UseCases/               # Use case documents
-      example_usecase.md
-      
-    UserStories/            # User story documents
-      example_userstory.md
-      
-    UAT/                    # User Acceptance Testing documents
-      example_UAT_testplan.docx
-      
-    ERDiagrams/             # Entity-Relationship diagrams
-      example_ERdiagram.png
-      
-    FlowCharts/             # Flow charts
-      example_flowchart.png
-      
-    SequenceDiagrams/       # Sequence diagrams
-      example_sequence.png
-      
-  DataMapping/              # Data mapping files
-    example_mapping.xlsx
-    
-  ExcelFiles/               # Excel analysis and reports
-    example_analysis.xlsx
-    
-  VisioDiagrams/            # Visio workflow diagrams
-    example_diagram.vsdx
-    
-  Code/                     # Source code and scripts
-  
-  
-    Java/                   # Java source code
-      example_code.java
-      
-      
-    tests/                  # Unit or functional test scripts
-      example_test.java
-      
-  Docs/                     # Additional documentation
-    example_doc.md
-
-
-   
-
-
     
 ### 📊 Analysis & Design Artifacts
 ER Diagram: Defines entities and relationships within the claims data model
