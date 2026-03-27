@@ -4,7 +4,6 @@
 The Travel Insurance Claim Management System allows customers to submit travel insurance claims online and track the claim status.
 
 ## 📊 Claims Process Flow
-## 📊 Claims Process Flow
 
 The Travel Insurance Claims process follows these main steps:
 
