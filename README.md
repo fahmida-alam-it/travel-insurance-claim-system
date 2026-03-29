@@ -285,5 +285,5 @@ This project demonstrates the ability to translate business needs into structure
 
 
 ### 👩‍💻 Author
-Fahmida Alam, CBAP – Business Systems Analyst & Former Software Developer
+Fahmida Alam, CBAP – Business Systems Analyst & Former Software Developer.
 Bilingual IT Professional with experience in FinTech (Insurance) and the full software development lifecycle.
