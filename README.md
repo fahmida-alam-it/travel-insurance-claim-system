@@ -292,6 +292,7 @@ Bilingual IT Professional with experience in the FinTech (insurance), Telecommun
 
 ### 👩‍💻 Author
 
+
 <table>
 <tr>
 <td width="150">
@@ -306,3 +307,6 @@ Bilingual IT Professional with experience in FinTech (Insurance) and full SDLC.
 </td>
 </tr>
 </table>
+
+
+
