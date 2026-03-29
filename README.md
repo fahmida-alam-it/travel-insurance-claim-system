@@ -1,49 +1,3 @@
-
-
-### 📊 Claims Process Flow
-
-The diagram below illustrates the end-to-end process of submitting and processing a travel insurance claim:
-
-![Claim Processing Flow](images/claim_flow.png)
-![System Use Cases](images/use_cases.png)
-
-![Claims Process Flow](SRD/images/claim_flow.png)
-![Use Cases Diagram](SRD/images/use_cases.png)
-
-
-- **Claim Submission:** Customer submits a new claim.
-- **Validation:** System checks claim details.
-- **Assessment:** Claims agent evaluates the claim and requests additional info if needed.
-- **Decision:** Claim is approved or rejected.
-- **Payment & Closure:** Approved claims are paid, and the process is closed.
-
----
-
-### 🧩 System Use Cases
-
-The use cases diagram shows the main actors and their interactions with the system:
-
-![Claims Flow](SRD/Diagrams/Systems%20Diagram%20and%20Use%20case%20map%20%20Image.png)
-
-- **Customer:** Submit claim, upload documents, track status.
-- **Claims Agent:** Assess claims, request information, approve or deny claims.
-- **Administrator:** Manage users, generate reports, audit logs, configure system.
-- **External Systems:** Database, payment gateway, and third-party services interact with the system as needed.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
 Travel Insurance Claim Management System
 🧭 Project Overview
 
@@ -51,7 +5,18 @@ The Travel Insurance Claim Management System allows customers to submit travel i
 
 ---
 
-## 📊 Claims Process Flow
+
+### 📊 Claims Process Flow
+
+The diagram below illustrates the end-to-end process of submitting and processing a travel insurance claim:
+
+![Claim Processing Flow](images/claim_flow.png)
+
+- **Claim Submission:** Customer submits a new claim.
+- **Validation:** System checks claim details.
+- **Assessment:** Claims agent evaluates the claim and requests additional info if needed.
+- **Decision:** Claim is approved or rejected.
+- **Payment & Closure:** Approved claims are paid, and the process is closed.
 
 The Travel Insurance Claims process follows these main steps:
 
@@ -64,25 +29,13 @@ The Travel Insurance Claims process follows these main steps:
 7. **Approved / Rejected** – The claim is either approved or rejected.
 8. **End** – The process is completed.
 
-Visual diagram available in Diagrams/claim_flow.png.
-
-The diagram below illustrates the end-to-end process of submitting and processing a travel insurance claim:
-
-![Claim Processing Flow](SRD/Diagrams/claim_flow.png)
-
-- **Claim Submission:** Customer submits a new claim.
-- **Validation:** System checks claim details.
-- **Assessment:** Claims agent evaluates the claim and requests additional info if needed.
-- **Decision:** Claim is approved or rejected.
-- **Payment & Closure:** Approved claims are paid, and the process is closed.
-
 ---
 
 ### 🧩 System Use Cases
 
 The use cases diagram shows the main actors and their interactions with the system:
 
-![System Use Cases](SRD/Diagrams/Insurance claim flow and system use cases.png
+![System Use Cases](images/use_cases.png)
 
 - **Customer:** Submit claim, upload documents, track status.
 - **Claims Agent:** Assess claims, request information, approve or deny claims.
