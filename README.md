@@ -1,4 +1,4 @@
-Travel Insurance Claim Management System
+## Travel Insurance Claim Management System
 🧭 Project Overview
 
 The Travel Insurance Claim Management System allows customers to submit travel insurance claims online, upload supporting documents, and track the status of their claims. The system simplifies claim processing, reduces manual paperwork, and improves customer satisfaction.
