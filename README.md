@@ -153,7 +153,6 @@ BRD/ # Business Requirement Documents
 ├─ Travel_Insurance_Claim_System_BRD.docx
 ├─ Travel_Insurance_Claim_System_BRD.md
 ├─ README.md # BRD-specific notes
-
 SRD/ # System Requirement Documents
 ├─ SRD_TravelInsuranceClaims.docx
 ├─ Travel_Insurance_Claim_System_SRD.docx
@@ -168,8 +167,9 @@ SRD/ # System Requirement Documents
 ├─ UseCases/ # Detailed use case documents
 ├─ UserStories/ # User story documents
 └─ Wireframes/ # Wireframe designs
+├─ images
 Docs/ # Supporting documents
-├─ Master_Index_Diagrams_2026-02-25.rtf # Index of diagrams
+ Master_Index_Diagrams_2026-02-25.rtf # Index of diagrams
 
 Code/ # Source code (if applicable)
 DataMapping/ # Data mapping files
