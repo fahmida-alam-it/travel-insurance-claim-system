@@ -296,7 +296,7 @@ Bilingual IT Professional with experience in the FinTech (insurance), Telecommun
 <table>
 <tr>
 <td width="150">
-<img src="images/profile.png" width="120" style="border-radius:50%;" />
+<img src="images/profile1.png" width="120" style="border-radius:50%;" />
 </td>
 <td>
 
