@@ -285,13 +285,6 @@ This project demonstrates the ability to translate business needs into structure
 
 
 ### 👩‍💻 Author
-Fahmida Alam, CBAP – Business Systems Analyst & Former Software Developer.
-Bilingual IT Professional with experience in the FinTech (insurance), Telecommunications, Pension Fund, Energy (Oil & Gas) and Aerospace industries and the full software development lifecycle.
-
-
-
-### 👩‍💻 Author
-
 
 <table>
 <tr>
@@ -301,12 +294,9 @@ Bilingual IT Professional with experience in the FinTech (insurance), Telecommun
 <td>
 
 **Fahmida Alam, CBAP**  
-Business Systems Analyst & Former Software Developer  
-Bilingual IT Professional with experience in FinTech (Insurance) and full SDLC.
+Fahmida Alam, CBAP – Business Systems Analyst & Former Software Developer.
+Bilingual IT Professional with experience in FinTech (insurance), Telecommunications, Pension Fund, Energy (Oil & Gas), Aerospace industries and full SDLC.
 
 </td>
 </tr>
 </table>
-
-
-
