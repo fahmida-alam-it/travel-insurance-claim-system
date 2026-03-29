@@ -6,6 +6,8 @@ The diagram below illustrates the end-to-end process of submitting and processin
 
 ![Claim Processing Flow](SRD/Diagrams/claim_flow.png)
 
+![System Use Cases](SRD/Diagrams/use_cases.png)
+
 - **Claim Submission:** Customer submits a new claim.
 - **Validation:** System checks claim details.
 - **Assessment:** Claims agent evaluates the claim and requests additional info if needed.
