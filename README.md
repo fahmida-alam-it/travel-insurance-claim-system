@@ -1,3 +1,44 @@
+
+
+### 📊 Claims Process Flow
+
+The diagram below illustrates the end-to-end process of submitting and processing a travel insurance claim:
+
+![Claim Processing Flow](BRD/SRD/Diagrams/claim_flow.png)
+
+- **Claim Submission:** Customer submits a new claim.
+- **Validation:** System checks claim details.
+- **Assessment:** Claims agent evaluates the claim and requests additional info if needed.
+- **Decision:** Claim is approved or rejected.
+- **Payment & Closure:** Approved claims are paid, and the process is closed.
+
+---
+
+### 🧩 System Use Cases
+
+The use cases diagram shows the main actors and their interactions with the system:
+
+![System Use Cases](BRD/SRD/Diagrams/use_cases.png)
+
+- **Customer:** Submit claim, upload documents, track status.
+- **Claims Agent:** Assess claims, request information, approve or deny claims.
+- **Administrator:** Manage users, generate reports, audit logs, configure system.
+- **External Systems:** Database, payment gateway, and third-party services interact with the system as needed.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 Travel Insurance Claim Management System
 🧭 Project Overview
 
@@ -19,6 +60,31 @@ The Travel Insurance Claims process follows these main steps:
 8. **End** – The process is completed.
 
 Visual diagram available in Diagrams/claim_flow.png.
+
+The diagram below illustrates the end-to-end process of submitting and processing a travel insurance claim:
+
+![Claim Processing Flow](SRD/Diagrams/claim_flow.png)
+
+- **Claim Submission:** Customer submits a new claim.
+- **Validation:** System checks claim details.
+- **Assessment:** Claims agent evaluates the claim and requests additional info if needed.
+- **Decision:** Claim is approved or rejected.
+- **Payment & Closure:** Approved claims are paid, and the process is closed.
+
+---
+
+### 🧩 System Use Cases
+
+The use cases diagram shows the main actors and their interactions with the system:
+
+![System Use Cases](BRD/SRD/Diagrams/use_cases.png)
+
+- **Customer:** Submit claim, upload documents, track status.
+- **Claims Agent:** Assess claims, request information, approve or deny claims.
+- **Administrator:** Manage users, generate reports, audit logs, configure system.
+- **External Systems:** Database, payment gateway, and third-party services interact with the system as needed.
+
+---
 
 ⚙️ Features
 User authentication and secure login.
