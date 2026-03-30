@@ -150,14 +150,14 @@ Project-Root/
   ```
 Travel-Insurance-Claim-System/
 │
-├─ BRD/ # Business Requirement Documents
-├─ SRD/  # System Requirement Documents
-├─ Diagrams/ # All system diagrams
-│   ├─ ERD/ # Entity-Relationship diagrams
-│   ├─ Flowcharts/ # Process flow diagrams
-│   ├─ Process/ # End-to-end process diagrams
-│   ├─ UML/ # Class, sequence, and other UML diagrams
-│   └─ Sequence/ # Sequence diagrams
+├─ BRD/                # Business Requirement Documents
+├─ SRD/                # System Requirement Documents
+├─ Diagrams/           # All system diagrams
+│   ├─ ERD/            # Entity-Relationship diagrams
+│   ├─ Flowcharts/     # Process flow diagrams
+│   ├─ Process/        # End-to-end process diagrams
+│   ├─ UML/            # Class, sequence, and other UML diagrams
+│   └─ Sequence/       # Sequence diagrams
 │
 ├─ UseCases/            # Use case descriptions (text)
 ├─ UserStories/         # Agile user stories
