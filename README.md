@@ -152,26 +152,32 @@ Travel-Insurance-Claim-System/
 │
 ├─ BRD/                # Business Requirement Documents
 ├─ SRD/                # System Requirement Documents
+│
 ├─ Diagrams/           # All system diagrams
 │   ├─ ERD/            # Entity-Relationship diagrams
 │   ├─ Flowcharts/     # Process flow diagrams
 │   ├─ Process/        # End-to-end process diagrams
-│   ├─ UML/            # Class, sequence, and other UML diagrams
-│   └─ Sequence/       # Sequence diagrams
+│   ├─ UML/            # Use case, class diagrams
+│   ├─ Sequence/       # Sequence diagrams
+│   └─ Visio/          # (Optional) Visio versions of diagrams
 │
-├─ UseCases/            # Use case descriptions (text)
-├─ UserStories/         # Agile user stories
-├─ Wireframes/          # UI mockups / screens
-├─ UAT/                 # Test cases / # User acceptance testing documentation
-├─ images/
-├─ Docs/                # Supporting documents
-└─Master_Index_Diagrams # Index of diagrams
+├─ UseCases/           # Use case descriptions
+├─ UserStories/        # Agile user stories
+├─ Wireframes/         # UI mockups / screens
+├─ UAT/                # User acceptance testing documentation
 │
-├─Code/                 # Source code (if applicable)
-├─DataMapping/          # Data mapping files
-├─ExcelFiles/           # Excel sheets used in analysis or planning
-├─VisioDiagrams/        # Microsoft Visio diagrams
+├─ Data/               # Data-related files
+│   ├─ DataMapping/
+│   └─ ExcelFiles/
+│
+├─ Docs/               # Supporting documents
+│   └─ Master_Index_Diagrams.rtf
+│
+├─ images/             # Images used in README
+├─ Code/               # Source code (if applicable)
+│
 └─ README.md
+
 ```
 ---
     
