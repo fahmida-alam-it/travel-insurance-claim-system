@@ -148,33 +148,31 @@ Project-Root/
   README.md
 
   ```
-BRD/ # Business Requirement Documents
-├─ BRD_TravelInsuranceClaims.docx # Main BRD document
-├─ Travel_Insurance_Claim_System_BRD.docx
-├─ Travel_Insurance_Claim_System_BRD.md
-├─ README.md # BRD-specific notes
-SRD/ # System Requirement Documents
-├─ SRD_TravelInsuranceClaims.docx
-├─ Travel_Insurance_Claim_System_SRD.docx
-├─ README.md # SRD-specific notes
-├─ Diagrams/ # All system diagrams
-│ ├─ ER Diagrams/ # Entity-Relationship diagrams
-│ ├─ Flowcharts/ # Process flow diagrams
-│ ├─ Process Diagrams/ # End-to-end process diagrams
-│ ├─ UML Diagrams/ # Class, sequence, and other UML diagrams
-├─ SequenceDiagrams/ # Sequence diagrams
-├─ UAT/ # User acceptance testing documentation
-├─ UseCases/ # Detailed use case documents
-├─ UserStories/ # User story documents
-└─ Wireframes/ # Wireframe designs
-├─ images
-Docs/ # Supporting documents
- Master_Index_Diagrams_2026-02-25.rtf # Index of diagrams
 
-Code/ # Source code (if applicable)
-DataMapping/ # Data mapping files
-ExcelFiles/ # Excel sheets used in analysis or planning
-VisioDiagrams/ # Microsoft Visio diagrams
+
+Travel-Insurance-Claim-System/
+│
+├─ BRD/ # Business Requirement Documents
+├─ SRD/  # System Requirement Documents
+├─ Diagrams/ # All system diagrams
+│   ├─ ERD/ # Entity-Relationship diagrams
+│   ├─ Flowcharts/ # Process flow diagrams
+│   ├─ Process/ # End-to-end process diagrams
+│   ├─ UML/ # Class, sequence, and other UML diagrams
+│   └─ Sequence/ # Sequence diagrams
+│
+├─ UseCases/          # Use case descriptions (text)
+├─ UserStories/       # Agile user stories
+├─ Wireframes/        # UI mockups / screens
+├─ UAT/               # Test cases / # User acceptance testing documentation
+├─ images/
+├─ Docs/              # Supporting documents
+└─Master_Index_Diagrams_2026-02-25.rtf # Index of diagrams
+├─Code/ # Source code (if applicable)
+├─DataMapping/ # Data mapping files
+├─ExcelFiles/ # Excel sheets used in analysis or planning
+├─VisioDiagrams/ # Microsoft Visio diagrams
+└─ README.md
 
 ```
 
