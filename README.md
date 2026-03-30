@@ -148,8 +148,6 @@ Project-Root/
   README.md
 
   ```
-
-
 Travel-Insurance-Claim-System/
 │
 ├─ BRD/ # Business Requirement Documents
@@ -161,21 +159,20 @@ Travel-Insurance-Claim-System/
 │   ├─ UML/ # Class, sequence, and other UML diagrams
 │   └─ Sequence/ # Sequence diagrams
 │
-├─ UseCases/          # Use case descriptions (text)
-├─ UserStories/       # Agile user stories
-├─ Wireframes/        # UI mockups / screens
-├─ UAT/               # Test cases / # User acceptance testing documentation
+├─ UseCases/            # Use case descriptions (text)
+├─ UserStories/         # Agile user stories
+├─ Wireframes/          # UI mockups / screens
+├─ UAT/                 # Test cases / # User acceptance testing documentation
 ├─ images/
-├─ Docs/              # Supporting documents
-└─Master_Index_Diagrams_2026-02-25.rtf # Index of diagrams
-├─Code/ # Source code (if applicable)
-├─DataMapping/ # Data mapping files
-├─ExcelFiles/ # Excel sheets used in analysis or planning
-├─VisioDiagrams/ # Microsoft Visio diagrams
+├─ Docs/                # Supporting documents
+└─Master_Index_Diagrams # Index of diagrams
+│
+├─Code/                 # Source code (if applicable)
+├─DataMapping/          # Data mapping files
+├─ExcelFiles/           # Excel sheets used in analysis or planning
+├─VisioDiagrams/        # Microsoft Visio diagrams
 └─ README.md
-
 ```
-
 ---
     
 ### 📊 Analysis & Design Artifacts
