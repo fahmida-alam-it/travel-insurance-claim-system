@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 *.tmp
 ~*
 *.pdf
+=======
+# Ignore Word temp files
+~$*.docx
+~*.tmp
+>>>>>>> 12d5b7456bc09e27bb9631565d21dcb44ca9c94b
