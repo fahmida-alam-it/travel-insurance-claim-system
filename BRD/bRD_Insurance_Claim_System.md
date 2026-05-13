@@ -1,8 +1,8 @@
-# Travel Insurance Claim Management System
+# Insurance Claim Management System
 ## Business Requirements Document (BRD)
 
 ### 1. Project Overview
-The Travel Insurance Claim Management System enables customers to submit travel insurance claims online. The system allows claims agents to review, approve, or reject claims efficiently.
+The Insurance Claim Management System enables customers to submit insurance claims online. The system allows claims agents to review, approve, or reject claims efficiently.
 
 ### 2. Business Objectives
 - Reduce claim processing time
@@ -30,7 +30,7 @@ The system will allow:
 4. The system must notify customers about claim status updates.
 
 ### 6. Assumptions
-- Customers have valid travel insurance policies.
+- Customers have valid insurance policies.
 - The system will integrate with the existing policy database.
 
 ### 7. Constraints
