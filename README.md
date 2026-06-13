@@ -454,7 +454,7 @@ This project demonstrates:
 
 Fahmida Alam
 
-Business Systems Analyst (CBAP) | Technical Analyst | Java Backend Enthusiast
+Business Systems Analyst (CBAP) | Technical Analyst | Data Governance + testing
 
 ---
 
