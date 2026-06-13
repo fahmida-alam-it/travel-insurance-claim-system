@@ -1,10 +1,10 @@
 # Insurance Claim Management System (Java REST API)
 
-## 📌 Project Overview
+## 📌Project Overview 
 
-The Insurance Claim Management System is an enterprise-style end-to-end application designed to simulate a real-world insurance claims processing platform.
+The project reflects a Technical Business Systems Analyst (BSA) perspective across the full SDLC lifecycle.
 
-This project demonstrates:
+It demonstrates how business requirements in the insurance domain are translated into:
 
 - Business Systems Analysis
 - Software Development Lifecycle (SDLC)
@@ -12,9 +12,9 @@ This project demonstrates:
 - Database Modeling
 - Agile Delivery
 - Reporting & Analytics
-- Cloud Deployment Concepts
-- AI Integration Concepts
-
+- System design
+- Data handling
+- Testing and validation
 The system enables customers to submit insurance claims, allows agents and managers to process claims, and provides reporting dashboards for operational insights.
 
 ---
@@ -151,14 +151,21 @@ These enhancements would strengthen the system’s ability to proactively identi
 
 # 🎯 Business Problem
 
-Insurance claim processing often involves manual tracking, inconsistent workflows, and multiple stakeholders, leading to delays and lack of transparency.
+Insurance organizations require a controlled system to:
 
-This solution demonstrates how a structured digital workflow can improve:
+Manage insurance claims efficiently
+Ensure data accuracy and consistency
+Apply standardized business rules
+Track claim lifecycle end-to-end
+Support audit and regulatory compliance
 
-- Claim processing consistency
-- Status visibility
-- Reduction of manual handling errors
-- Alignment between business rules and system behavior
+Without structured systems, organizations face:
+
+Data inconsistency
+Slow claim processing
+Limited traceability
+High operational risk
+
 
 ---
 
