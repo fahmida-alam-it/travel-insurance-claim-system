@@ -84,6 +84,58 @@ The use case diagram below shows the primary actors and their interactions with 
 The workflow demonstrates the complete insurance claim lifecycle from claim submission through review, approval, payment processing, and closure.
 
 ---
+## Risk & Fraud Considerations
+
+This Insurance Claim Management System is designed with awareness of common risk and fraud scenarios found in real-world insurance operations. While the current implementation focuses on core claim processing, the architecture supports future enhancement of risk-based controls.
+
+### 1. Business Rule–Based Risk Indicators
+
+The system can be extended to include rule-based checks to identify potentially high-risk claims, such as:
+
+* Multiple claims submitted by the same policyholder within a short time period
+* Claims submitted immediately after policy activation
+* Unusual claim amounts compared to historical averages
+* Repeated claims for similar damage patterns
+
+These rules can be implemented as validation or flagging logic within the claim processing workflow.
+
+### 2. Data Quality and Anomaly Detection
+
+Strong data integrity is essential for reducing fraud risk. Potential enhancements include:
+
+* Validation of mandatory fields (policy ID, incident date, claim type)
+* Detection of inconsistent or incomplete claim data
+* Cross-field validation (e.g., incident date cannot be after claim submission date)
+* Identification of duplicate or near-duplicate claims
+
+### 3. Exception Handling and Review Workflow
+
+Claims identified as “high risk” or “suspicious” can be routed to a manual review process:
+
+* Flagged claims are marked for investigation
+* Additional approval required before claim settlement
+* Audit trail maintained for all decisions
+
+### 4. Auditability and Traceability
+
+To support compliance and transparency, the system design considers:
+
+* End-to-end tracking of claim status changes
+* Logging of API requests and responses
+* Record of user actions for each claim lifecycle stage
+* Support for audit reviews and regulatory reporting
+
+### 5. Future Enhancement (Advanced Fraud Detection)
+
+Future versions of the system may incorporate:
+
+* Predictive risk scoring models
+* Machine learning–based anomaly detection
+* Integration with external fraud databases
+* AI-assisted claim classification and prioritization
+
+These enhancements would strengthen the system’s ability to proactively identify and mitigate fraud risk in insurance operations.
+
 
 # ⚙️ Key Features
 
